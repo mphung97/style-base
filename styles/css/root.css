@@ -1,0 +1,44 @@
+:root {
+  --blue: #0084F4;
+  --blue1: #4EAEFF;
+  --blue2: #A6D6FF;
+  --indigo: #6610f2;
+  --purple: #6979F8;
+  --purple1: #9BA6FA;
+  --purple2: #CDD2FD;
+  --pink: #e83e8c;
+  --red: #FF647C;
+  --red1: #FF98A8;
+  --red2: #FFCBD3;
+  --orange: #F2994A;
+  --orange1: #F6BB86;
+  --orange2: #FBDDC3;
+  --yellow: #FFCF5C;
+  --yellow1: #FFDF92;
+  --yellow2: #FFEFC9;
+  --green: #00C48C;
+  --green1: #2EFFC3;
+  --green2: #96FFE1;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #666666;
+  --gray-dark: #333333;
+  --primary: #0084F4;
+  --secondary: #666666;
+  --success: #00C48C;
+  --info: #17a2b8;
+  --warning: #FFCF5C;
+  --danger: #FF647C;
+  --light: #e0e0e0;
+  --dark: #333333;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/*# sourceMappingURL=root.css.map */
